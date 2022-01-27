@@ -18,7 +18,7 @@
   <h1 align="center">Dodgeball Masters</h1>
 
   <p align="center">
-    Playback of human daily basis interactions in virtual environments for generation of synthetic datasets
+    A frenetic multiplayer Dodgeball game
     <br />
     <a href="https://github.com/Woko103/Dodgeball_Masters/issues">Report Bug</a>
     ·
@@ -119,10 +119,15 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Woko103/Dodg
 ## Contact
 
 Malaka Studio - [@MalakaStudio](https://twitter.com/malakastudio)
+
 [César Moltó Morilla](https://www.linkedin.com/in/cesar-molto-morilla) - [@CeMolto](https://twitter.com/CeMolto) - cmoltomorilla@gmail.com
+
 [Sergio Sebastián Aracil](https://www.linkedin.com/in/sergio-sebastian-aracil) - ssebasa98@gmail.com
+
 [Roque Bru Navarro](https://www.linkedin.com/in/roquebrunavarro) - [@RBN_Games](https://twitter.com/RBN_Games) - RockBRNavarro@gmail.com
+
 Vasil Matakov - [@vasikitov](https://twitter.com/vasikitov) - kezavasko@gmail.com
+
 [Samuel Quesada Cambil](https://www.linkedin.com/in/samuel-quesada-cambil-9b5304222/)
 
 Project Link: [https://github.com/Woko103/Dodgeball_Masters](https://github.com/Woko103/Dodgeball_Masters)
