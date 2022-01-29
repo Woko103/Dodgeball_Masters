@@ -69,12 +69,13 @@ see who is the true dodgeball master.
 <!-- MADE WITH -->
 ## Made With
 
-List of major tools used in the development of this project.
+List of major tools and technologies used in the development of this project.
 
 * [Arch Linux](https://archlinux.org)
 * [OpenGL](https://www.opengl.org)
 * [Blender](https://www.blender.org)
 * [C++](https://www.cplusplus.com)
+* [FMOD](https://www.fmod.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
